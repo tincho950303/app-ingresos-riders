@@ -23,6 +23,12 @@ editás o borrás registros y exportás todo a CSV.
 - **Offline real**: base de datos local SQLite, sin cuentas ni internet.
   Funciona en modo avión.
 
+## Capturas
+
+<p align="center">
+  <img src="docs/captura-principal.png" width="320" alt="Pantalla principal: registro por app y resumen del día">
+</p>
+
 ## Estilo
 
 Diseño propio **"Nocturno Soft"**: oscuro moderno sin bordes, tarjetas
