@@ -1,5 +1,10 @@
 # Control de Ganancias — App de Ingresos para Riders
 
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK_Android-2DD4BF?style=for-the-badge&logo=android)](https://github.com/tincho950303/app-ingresos-riders/releases/latest)
+
+> **Instalar en el celu:** toca el botón verde de arriba desde tu celular,
+> descarga el APK y ábrelo (permite "instalar apps desconocidas").
+
 App móvil **100% offline** para registrar y controlar ingresos por plataforma
 (PedidosYa, Mercado Pago, Otros). Pensada para repartidores: anotás cada
 ingreso con su día y monto, ves totales por día / semana / año / periodo,
